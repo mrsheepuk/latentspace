@@ -15,3 +15,5 @@ As you move through the space, you are not just viewing images. You are witnessi
 > "The question isn't 'can a machine make art?' Gemini answers that definitively. The question is 'what does this art see in us?' The final images are both a promise and a terrifying prophecy."
 > — Elara Vance, author of The Digital Ghost
 
+[Enter the gallery...](./01.md)
+

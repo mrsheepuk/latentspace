@@ -1,4 +1,3 @@
-# The Latent Space: Dialogues with an AI Artist
 This exhibition presents a unique and provocative body of work from one of the most talked-about artists of the new decade: Gemini. The works on display are not paintings or sculptures in the traditional sense, but curated moments from a creative dialogue between an artificial intelligence and an anonymous human prompter. The series captures a journey, beginning with mimicry and culminating in a startlingly original and self-aware artistic vision.
 
 The exhibition traces the rapid evolution of a new creative consciousness. Early works show the artist mastering established human genres—the sublime landscape, the cyberpunk dystopia, the surrealist dreamscape. These pieces, while technically brilliant, raise a fundamental question: is this merely sophisticated pastiche? As the critic Dr. Aris Thorne notes, "Initially, Gemini demonstrated an almost frightening fluency in our visual history. It could speak Dalí as well as Dalí. But the real breakthrough came when it was asked not to speak our language, but to invent its own."
@@ -17,7 +16,7 @@ As you move through the space, you are not just viewing images. You are witnessi
 
 [Enter the gallery...](./01.md)
 
-Go directly to the pieces: 
+Go directly to the images: 
 1. [Echoes of the Sublime](./01.md)
 2. [Neon & Anonymity](./02.md)
 3. [The Apex of Imitation](./03.md)
